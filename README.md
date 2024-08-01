@@ -3,3 +3,4 @@ Database design to track all agricultural activities and easily manage them . In
 # ER Diagram
 ![ER_diagram](https://github.com/user-attachments/assets/bc241af5-0ed4-44c3-a7e5-e08b67cde6d1)
 # Relational Schema
+![RS](https://github.com/user-attachments/assets/df91663f-1e16-4d20-8ace-baf7da8086a6)
